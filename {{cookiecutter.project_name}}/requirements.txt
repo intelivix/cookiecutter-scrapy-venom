@@ -1,0 +1,3 @@
+-r requirements/base.txt
+-r requirements/db.txt
+-e ../intelivix-crawl

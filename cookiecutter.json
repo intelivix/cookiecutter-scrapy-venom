@@ -1,0 +1,9 @@
+{
+    "project_name": "venom-project",
+    "dbuser": "intelivixusr",
+    "dbpwd": "intelivixpwd",
+    "use_mongo": "y",
+    "use_postgresql": "n",
+    "use_sentry": "y",
+    "sentry_dsn": "sentry_dsn"
+}
