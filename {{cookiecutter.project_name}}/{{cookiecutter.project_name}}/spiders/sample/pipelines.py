@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 # from intelivix_crawl.mongodb.pipelines import CSVPipeline
-from intelivix_crawl.mongodb.pipelines import MongoDBPipeline
-from intelivix_crawl.pipelines import PipelineBase
+from scrapy_venom.pipelines.mongodb import MongoDBPipeline
+from scrapy_venom.pipelines.base import PipelineBase
 from .items import LinkItem
 
 

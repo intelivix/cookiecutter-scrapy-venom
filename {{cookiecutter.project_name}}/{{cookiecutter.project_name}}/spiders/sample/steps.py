@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from intelivix_crawl.steps import Step
+from scrapy_venom.steps import Step
 from .items import LinkItem
 from .items import OtherItem
 

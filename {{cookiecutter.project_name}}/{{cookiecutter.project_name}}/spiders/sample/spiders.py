@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from intelivix_crawl.steps import SpiderStep
+from scrapy_venom.spiders import SpiderStep
 from .steps import SampleStep
 
 
